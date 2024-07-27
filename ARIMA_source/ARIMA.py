@@ -1,4 +1,4 @@
-"""作成：摩壽意  目的：ARIMAモデルを用いた連続データの予測"""
+"""目的：ARIMAモデルを用いた連続データの予測"""
 
 import pandas as pd
 from statsmodels.tsa.seasonal import seasonal_decompose
@@ -6,7 +6,7 @@ from statsmodels.tsa.arima.model import ARIMA
 import matplotlib.pyplot as plt
 
 # データの読み込み(csvファイルの指定, "date"をインデックスに指定, 時間軸定義)
-data = pd.read_csv('C:\\Users\\takumi\\Downloads\\ARIMA_source_Masui\\data.csv',index_col='date',parse_dates=True)
+data = pd.read_csv('C:\\Users\\username\\Downloads\\ARIMA_source\\data.csv',index_col='date',parse_dates=True)
 # 原型データの表示
 plt.plot(data)
 plt.ylabel('Value')
