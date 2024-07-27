@@ -1,4 +1,6 @@
 # Portfolio
+### ARIMA_source
+同じディレクトリ内のdata.csvを読み込み、ARIMAモデルへ学習させ、過去や未来の値の予測を行います。
 ### image_create.ipynb
 StableDiffusionを使い、キーワードに応じた画像を生成するよう実装しました。
 ### 謝罪代行.py
