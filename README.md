@@ -1,5 +1,5 @@
 # Portfolio
-### image_create.py
+### image_create.ipynb
 StableDiffusionを使い、キーワードに応じた画像を生成するよう実装しました。
 ### 謝罪代行.py
 Tkinterモジュールを使用してGUIを表示させた後、ボタンをおすと話しかけた音声を読み込みます。
