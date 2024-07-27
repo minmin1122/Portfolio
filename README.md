@@ -1,7 +1,7 @@
 # Portfolio
 ### ARIMA_source/&emsp;制作：大学2年
 同じディレクトリ内のdata.csvを読み込み、ARIMAモデルへ学習させ、過去や未来の値の予測を行います。
-実行するには、ARIMA.py内のdata.csvのファイルパスを編集する必要がございます。
+<br>実行するには、ARIMA.py内のdata.csvのファイルパスを編集する必要がございます。</br>
 ### image_create.ipynb&emsp;制作：高校3年
 StableDiffusionを使い、キーワードに応じた画像を生成するよう実装しました。
 ### 謝罪代行.py&emsp;制作：高校3年
