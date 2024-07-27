@@ -1,5 +1,5 @@
 # Portfolio
-### ARIMA_source/    制作：大学2年
+### ARIMA_source/ 制作：大学2年
 同じディレクトリ内のdata.csvを読み込み、ARIMAモデルへ学習させ、過去や未来の値の予測を行います。
 ### image_create.ipynb    制作：高校3年
 StableDiffusionを使い、キーワードに応じた画像を生成するよう実装しました。
