@@ -8,7 +8,7 @@ import google.generativeai as genai
 t = Tokenizer(wakati=False)
 
 # Google Gemini APIの設定
-genai.configure(api_key='AIzaSyCmxISDqTCgH7ycqZTHDWjyqsL9Zf3qja0') 
+genai.configure(api_key='Google Gemini API key')
 gemini_model = genai.GenerativeModel('models/gemini-1.5-flash')
 
 # 形態素解析と単語分割を行う関数
