@@ -1,4 +1,7 @@
 # Portfolio
+### /&emsp;制作：大学2年
+同じディレクトリ内のdata.csvを読み込み、ARIMAモデルへ学習させ、過去や未来の値の予測を行います。
+<br>実行するには、ARIMA.py内のdata.csvのファイルパスを編集する必要がございます。</br>
 ### ARIMA_source/&emsp;制作：大学2年
 同じディレクトリ内のdata.csvを読み込み、ARIMAモデルへ学習させ、過去や未来の値の予測を行います。
 <br>実行するには、ARIMA.py内のdata.csvのファイルパスを編集する必要がございます。</br>
